@@ -1,0 +1,122 @@
+.fa {
+    padding: 9px;
+    font-size: 20px;
+    width: 33px;
+    text-align: center;
+    text-decoration: none;
+    margin: 0px 3px;
+    border-radius: 50%;
+    
+  }
+ 
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  
+
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+
+.navbar
+{
+    background-color: black ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  
+}
+
+#navbarText
+{
+    font-size: 20px;
+ 
+}
+
+.fa-user ,.fa-headphones ,.fa-thumbs-up
+{
+  font-size: 60px !important;
+  margin-right: 40px;
+  color:rgb(17, 137, 236);
+
+}
+.card1,.card2,.card3
+{
+  display: flex !important;
+  width: 300px;
+  background-color: rgb(168, 165, 165);
+  box-shadow: 2px 4px 5px 4px grey;
+  justify-content: center;
+  text-align: center;
+  margin-top: 10px;
+ 
+}
+
+.mainCard
+{
+  margin-top: 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+
+}
+
+.Service  
+{
+margin-top: 50px;
+margin-left: 50px;
+text-align: center;
+}
+.card
+{
+width: 210px;
+
+}
+
+.card-text
+{
+  font-weight: bold;
+}
+
+.footer
+{
+  width: 100%;
+  background-color:rgb(17, 137, 236) ;
+  height: 50px;
+}
+
+.CTA
+{
+  background-color:black;
+  text-align: center;
+  color: #007bb5;
+  margin-top: 5px;
+  font-size: medium;
+}
+.btn-primary
+{
+  margin-bottom: 12px;
+ 
+}
+
+
+#myBtn {
+ 
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  font-size: 15px;
+  border: none;
+  outline: none;
+  background-color: #007bb5;
+  color: white;
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 40px;
+}
